@@ -1,0 +1,3 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:21 Clicking on an Element villas_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:21 Clicking on an Element area_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:39 Typing in an Element searchtext_ID entered the value as : Dubai
